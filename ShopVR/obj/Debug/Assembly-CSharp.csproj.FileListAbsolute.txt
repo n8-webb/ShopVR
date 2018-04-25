@@ -1,0 +1,3 @@
+C:\Users\Webb\Desktop\ShopVR\ShopVR\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Webb\Desktop\ShopVR\ShopVR\obj\Debug\Assembly-CSharp.dll
+C:\Users\Webb\Desktop\ShopVR\ShopVR\obj\Debug\Assembly-CSharp.pdb

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopVR", "Assembly-CSharp.csproj", "{A3114D1C-EFDC-AF0F-4929-4837218A3104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopVR", "Assembly-CSharp-Editor.csproj", "{9453619F-CEA6-61D6-A498-F2F03B595525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3114D1C-EFDC-AF0F-4929-4837218A3104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3114D1C-EFDC-AF0F-4929-4837218A3104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3114D1C-EFDC-AF0F-4929-4837218A3104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3114D1C-EFDC-AF0F-4929-4837218A3104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9453619F-CEA6-61D6-A498-F2F03B595525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9453619F-CEA6-61D6-A498-F2F03B595525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9453619F-CEA6-61D6-A498-F2F03B595525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9453619F-CEA6-61D6-A498-F2F03B595525}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
